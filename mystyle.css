@@ -1,0 +1,17 @@
+body{
+  background-color: pink ;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+h1{
+  background-color: pink
+  color: #1D2B64
+  font-family: cursive;  color: #1D2B64
+  font-size: 200px
+}
+
+h2{
+  font-family: monospace;
+  font-size: 150px
+}
